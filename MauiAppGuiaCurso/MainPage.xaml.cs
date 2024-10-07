@@ -1,25 +1,32 @@
-﻿namespace MauiAppGuiaCurso
+﻿using Microsoft.Maui.Controls;
+using MauiAppGuiaCurso;
+
+namespace MeuAppMaui;
+
+public partial class MainPage : ContentPage
 {
-    public partial class MainPage : ContentPage
+    public MainPage()
     {
-        int count = 0;
-
-        public MainPage()
-        {
-            InitializeComponent();
-        }
-
-        private void OnCounterClicked(object sender, EventArgs e)
-        {
-            count++;
-
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
-        }
+        InitializeComponent();
     }
 
+    private async void OnPage1Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new Page1());
+    }
+
+    private async void OnPage2Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new Page2());
+    }
+
+    private async void OnPage3Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new Page3());
+    }
+
+    private async void OnPage4Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new Page4());
+    }
 }
