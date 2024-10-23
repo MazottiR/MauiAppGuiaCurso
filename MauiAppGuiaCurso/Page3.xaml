@@ -5,6 +5,26 @@
 
     <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
         <Label Text="Desenvolvimento Mobile" />
+
+        <Label Text="A matéria de Desenvolvimento Mobile no curso de Desenvolvimento de Sistemas da ETEC Joaquim Ferreira do Amaral se concentra na criação de aplicações para dispositivos móveis, abordando tanto o desenvolvimento nativo quanto o híbrido. Os principais tópicos incluem:
+
+Fundamentos de Desenvolvimento Mobile: Introdução aos conceitos básicos de aplicações móveis, incluindo diferenças entre plataformas iOS e Android.
+
+Ambientes de Desenvolvimento: Familiarização com ferramentas e ambientes de desenvolvimento, como Android Studio e Xcode.
+
+Linguagens de Programação: Aprendizado de linguagens específicas, como Java ou Kotlin para Android e Swift para iOS, além de frameworks como React Native para desenvolvimento híbrido.
+
+Interface do Usuário (UI) e Experiência do Usuário (UX): Princípios de design de interfaces móveis, considerando usabilidade e acessibilidade.
+
+Armazenamento de Dados: Métodos de persistência de dados em dispositivos móveis, utilizando SQLite, Shared Preferences, ou armazenamento em nuvem.
+
+APIs e Integração: Integração de APIs externas, como serviços de geolocalização, redes sociais e notificações push.
+
+Teste e Debugging: Técnicas para testar e depurar aplicações, garantindo que funcionem corretamente em diferentes dispositivos.
+
+Publicação de Aplicativos: Processo de publicação de aplicativos nas lojas (Google Play e App Store), incluindo diretrizes e requisitos.
+
+Os alunos realizam projetos práticos, desenvolvendo aplicações móveis completas, que vão desde a concepção até a implementação, preparando-os para atuar no mercado de trabalho em um campo em constante crescimento. A disciplina enfatiza a inovação e a adaptação às tendências tecnológicas atuais." />
     </StackLayout>
 
 </ContentPage>

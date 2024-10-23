@@ -5,6 +5,26 @@
 
     <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
         <Label Text="Desenvolvimento Web" />
+
+        <Label Text="A matéria de Desenvolvimento Web no curso de Desenvolvimento de Sistemas da ETEC Joaquim Ferreira do Amaral foca na criação e manutenção de aplicações e sites na web. Os principais tópicos abordados incluem:
+
+Fundamentos da Web: Compreensão do funcionamento da internet, protocolos como HTTP/HTTPS e estrutura de URLs.
+
+HTML e CSS: Aprendizado das linguagens de marcação e estilo para criar a estrutura e o design de páginas web.
+
+JavaScript: Introdução à programação em JavaScript, abordando manipulação do DOM, interatividade e validação de formulários.
+
+Frameworks e Bibliotecas: Exploração de ferramentas populares como Bootstrap para design responsivo e jQuery para facilitar a manipulação do DOM.
+
+Desenvolvimento Back-End: Noções sobre servidores, APIs e linguagens como PHP ou Node.js, além de interação com bancos de dados.
+
+Controle de Versionamento: Uso de ferramentas como Git para gerenciar alterações no código e colaborar em projetos.
+
+Práticas de Design Responsivo: Técnicas para garantir que as aplicações funcionem bem em diferentes dispositivos, como desktops, tablets e smartphones.
+
+Segurança na Web: Fundamentos sobre segurança em aplicações web, incluindo prevenção contra ataques como SQL injection e XSS.
+
+Os alunos têm a oportunidade de trabalhar em projetos práticos, aplicando os conceitos aprendidos para desenvolver aplicações web completas, desde a concepção até a implementação, preparando-os para o mercado de trabalho na área de desenvolvimento web." />
     </StackLayout>
 
 </ContentPage>

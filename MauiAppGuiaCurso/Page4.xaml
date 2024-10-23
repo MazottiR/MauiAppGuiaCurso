@@ -5,6 +5,24 @@
 
     <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
         <Label Text="Banco de Dados" />
+
+        <Label Text="A matéria de Banco de Dados da ETEC Joaquim Ferreira do Amaral abrange os conceitos fundamentais e as práticas necessárias para o gerenciamento eficaz de dados. Os principais tópicos incluem:
+
+Modelo de Dados: Estudo dos diferentes modelos de dados, como modelo relacional, hierárquico e orientado a objetos.
+
+SQL (Structured Query Language): Aprendizado da linguagem SQL para criar, modificar e consultar bancos de dados, com ênfase em comandos como SELECT, INSERT, UPDATE e DELETE.
+
+Normalização: Compreensão do processo de normalização para organizar dados, reduzir redundâncias e melhorar a integridade.
+
+Sistemas de Gerenciamento de Banco de Dados (SGBDs): Exploração de SGBDs populares, como MySQL, PostgreSQL e SQLite, incluindo instalação e configuração.
+
+Banco de Dados Não Relacionais: Introdução a bancos de dados NoSQL, suas características e casos de uso.
+
+Segurança e Backup: Práticas para garantir a segurança dos dados e a importância de backups regulares.
+
+Desempenho e Otimização: Técnicas para otimizar consultas e melhorar o desempenho do banco de dados.
+
+Os alunos realizam atividades práticas, como a criação e a manipulação de bancos de dados, desenvolvendo habilidades essenciais para o mercado de trabalho, onde a gestão eficiente de dados é crucial. A disciplina prepara os estudantes para enfrentar desafios reais na administração de informações." />
     </StackLayout>
 
 </ContentPage>

@@ -5,6 +5,22 @@
 
     <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
         <Label Text="Desenvolvimento de Sistemas" />
+
+        <Label Text="A matéria de Desenvolvimento de Sistemas no curso de Desenvolvimento de Sistemas da ETEC Joaquim Ferreira do Amaral aborda os princípios e práticas essenciais para a criação de software. Os alunos aprendem sobre o ciclo de vida do desenvolvimento de sistemas, incluindo análise de requisitos, design, implementação, testes e manutenção.
+
+Os tópicos incluem:
+
+Metodologias de Desenvolvimento: Estudo de metodologias ágeis, tradicionais e práticas de gerenciamento de projetos.
+               
+Linguagens de Programação: Aprendizado de linguagens como Java, Python ou C#, com foco em programação orientada a objetos.
+               
+Banco de Dados: Introdução a bancos de dados relacionais e não relacionais, além de SQL para manipulação de dados.
+               
+Desenvolvimento Web e Mobile: Criação de aplicações para a web e dispositivos móveis, abordando front-end e back-end.
+               
+Testes de Software: Importância dos testes, tipos de testes (unitários, funcionais, etc.) e práticas de garantia de qualidade.
+               
+Os alunos têm a oportunidade de aplicar esses conceitos em projetos práticos, desenvolvendo habilidades essenciais para a atuação no mercado de trabalho. A disciplina busca preparar os estudantes para resolver problemas reais e trabalhar em equipe, promovendo a inovação e o pensamento crítico."/>
     </StackLayout>
 
 </ContentPage>
