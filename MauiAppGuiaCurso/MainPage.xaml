@@ -4,9 +4,12 @@
              x:Class="MauiAppGuiaCurso.MainPage">
 
     <StackLayout Padding="30" VerticalOptions="Center">
+        <Label Text="Guia de matérias para o curso de Desenvolvimento de
+            Sistemas da escola Etec Joaquim Ferreira do Amaral" />
+
         <Button Text="Ir para Página 1" Clicked="OnPage1Clicked" />
         <Button Text="Ir para Página 2" Clicked="OnPage2Clicked" />
-        <Button Text="Ir para Página 3" Clicked="OnPage3Clicked" />
+        <Button Text="Ir para Página 3" Clicked="OSnPage3Clicked" />
         <Button Text="Ir para Página 4" Clicked="OnPage4Clicked" />
     </StackLayout>
 
